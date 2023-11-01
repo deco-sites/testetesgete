@@ -1,6 +1,6 @@
 {
-  "siteId": 2480,
-  "namespace": "deco-sites/bf-thealfred",
+  "siteId": 3085,
+  "namespace": "deco-sites/testetesgete",
   "imports": [
     "$live/live.gen.ts",
     "deco-sites/std/live.gen.ts"
